@@ -907,14 +907,14 @@
 
   /*---------statistics css start------------*/
   .static-bg-img{
-    background-image: url(https://gyanida.com/images/statistics-bg.jpg);
+    background-image: url(/img/real-state-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
   }
   .box-shadow-new{
-    background-color: rgb(31 31 33 / 84%);
+    background-color: rgb(15 15 16 / 88%);
     padding: 80px 0px;
     color: white;
     text-align: center;
@@ -983,7 +983,7 @@
 /* footer css */
 .footer_01 {
   position: relative;
-  background-color:#224099;
+  background-color:#0E2E50;
   background-position: right center;
   background-size: auto;
   background-repeat: no-repeat;
@@ -1006,7 +1006,7 @@
 }
 .aboutWidget {
   position: relative;
-  margin: 81px -36px 0 20px;
+  margin: 50px 0 0 25px;
   border-right: 1px solid rgba(255, 255, 255, 0.3);
   padding-right: 32px;
   padding-bottom: 1px;
@@ -1064,7 +1064,7 @@ width: 110px;
 
 .serviceMenu {
   position: relative;
-  margin: 79px -14px 0 85px;
+  margin: 50px 0 0 25px;
   border-right: 1px solid rgba(255, 255, 255, 0.3);
   padding-bottom: 12px;
 }
