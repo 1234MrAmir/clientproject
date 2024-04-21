@@ -129,6 +129,7 @@
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
     }
+
 }
 
 .navbar-light .navbar-brand {
@@ -864,6 +865,7 @@
   header .item{
     height: 50vh;
   }
+  .serviceMenu{margin: 0px 0px 0 30px !important;}
 }
 @media screen and (max-width: 700px) {
   .contact-form {
