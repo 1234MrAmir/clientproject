@@ -867,6 +867,7 @@
   }
   .serviceMenu{margin: 0px 0px 0 30px !important;}
   .copyright{text-align: center;}
+  .phone-view{display: none;}
 }
 @media screen and (max-width: 700px) {
   .contact-form {
