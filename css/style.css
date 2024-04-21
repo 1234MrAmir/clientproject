@@ -907,7 +907,7 @@
 
   /*---------statistics css start------------*/
   .static-bg-img{
-    background-image: url(/img/real-state-bg.jpg);
+    background-image: url(../img/real-state-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
